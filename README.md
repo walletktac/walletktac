@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Karol
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript frameworks -> Vue, React
-- 📫 How to reach me -> trzcinskikar@gmail.com
+trzcinskikar@gmail.com
 
 <!---
 walletktac/walletktac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
